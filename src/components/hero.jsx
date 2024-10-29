@@ -1,5 +1,5 @@
 import video from '../assets/Video1.mp4';
-import foto from "../assets/foto.png";
+import foto from "../assets/fotito.png";
 import About from "./abaut";
 import Servicios from "./servicios";
 import Proyectos from './proyectos';

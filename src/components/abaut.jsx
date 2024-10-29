@@ -1,4 +1,4 @@
-import foto from '../assets/foto.png';
+import foto from '../assets/fotito.png';
 import Progreso from './progreso';
 
 function About() {
